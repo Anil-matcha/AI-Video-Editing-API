@@ -8,6 +8,7 @@ Edit existing videos with prompt-guided video-to-video models. Compare the suppo
 
 - [Watermark-Remover-API](https://github.com/Anil-matcha/Watermark-Remover-API)
 - [Video-Face-Swap-API](https://github.com/Anil-matcha/Video-Face-Swap-API)
+- [AI-Video-Effects-API](https://github.com/Anil-matcha/AI-Video-Effects-API) — 160+ video effect, VFX and camera-move presets applied to a still image.
 
 ## What this API covers
 
